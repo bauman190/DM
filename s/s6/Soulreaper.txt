@@ -1,0 +1,14 @@
+twin sword soulreaper 
+long sword 
+pude usarse en una mano si en  la otra esta equipada su melliza.
+devora lamas.
+
+The blade deals an additional 1d6 necrotic damage on a successful hit.
+
+lvl 2 
+
+When soulreaper lands a critical hit, the sword absorbs the life force of the target, healing the wielder for half the damage dealt.
+
+lvl 3 
+
+onces per short rest de you can use lvl 2 aviliti with no crit hit.
