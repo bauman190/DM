@@ -1,0 +1,48 @@
+HP : 130 (si lo veo bajo 160)
+AC : 16
+
+STR		DEX		CON		INT		WIS		CHA
+
+22 (+6)		16 (+3)		17 (+3)		2 (-4)		14 (+2)		18 (+4)
+			
+
+Damage Vulnerabilities: radiant
+
+Conditions Immunities: frightened
+
+Recistencia: daño de armas no magico.
+
+
+Spider Climb. The horror can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+
+Sunlight Sensitivity. While in sunlight, the horror has disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight.
+
+Evasión Básica: El Skittering Horror obtiene una bonificación de +2 a la CA hasta el final de su próximo turno cuando usa Skitter. 
+
+ Evasión Temporal: Cuando el Skittering Horror usa Skitter, 
+obtiene ventaja en las tiradas de salvación contra efectos que requieren una tirada de salvación para evitar daño o efectos, 
+como hechizos que afectan un área.
+ Esta ventaja dura solo hasta el final de su próximo turno.
+
+Acción de Skitter: El Skittering Horror puede usar su acción para moverse hasta el doble de su velocidad sin provocar ataques de oportunidad.
+ Sin embargo, limita su uso a una vez cada dos turnos
+
+
+multi atack: 1 bite, 1 claw
+
+Tentáculos: Mantén un daño de 2d8 + 5 (promedio de 14 de daño). Esto sigue siendo un ataque que puede golpear duro, pero no demasiado devastador.
+Mordisco: Ajusta el daño a 2d10 + 5 (promedio de 16 de daño), lo que será un golpe más peligroso, pero manejable.
+
+Regeneración:
+Dale una regeneración de 5 puntos de vida por turno
+
+Maddening Presence. 
+The horror targets one creature it can see within 30 feet of it. 
+If the target can see or hear the horror, the target must make a DC 17 Wisdom saving throw. 
+On a failed saving throw, the target becomes paralyzed until the end of its next turn. 
+If a creature's saving throw is successful, the creature is immune to the horror's Maddening Presence for the next 24 hours.
+
+
+
+
+
